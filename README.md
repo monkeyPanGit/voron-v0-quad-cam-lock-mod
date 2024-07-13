@@ -1,16 +1,26 @@
 # Voron V0.2 quad cam lock
-## Credit
-[Voron team](https://github.com/VoronDesign/)<br/>
+
+## Description
+This mod replaces the tophat hinges on the AB drive frames with front idler cam locks. It is intended to be combined with full height panels.
+
+It also includes custom made [Zero Panels](https://github.com/zruncho3d/ZeroPanels) for 2mm thick acrylic panels with 1mm thick foam. I used 
+Tesa 4965 thin double sided tape to fix the panel clips to the door panel.
 
 ## Print settings
 Print according to official Voron [print settings](https://docs.vorondesign.com/sourcing.html#print-settings).
 
-## Bom
+## Bom for quad cams
 * No extra hardware needed 
 
-## Description
-This mod replaces the tophat hinges on the AB drive frames with front idler cam locks. It is inteded to be combined with full height panels.
+## Bom for zero panels
+* Tesa 4965 double sided tape
+* 1mm black foam tape
+
+## Credit
+The [Voron team](https://github.com/VoronDesign/) for the original Voron V0 design
+
+[Zruncho](https://github.com/zruncho3d/) for the original Zero Panels design.
 
 ## Pictures
-![Cam lock drive frame](img/cad.png)
-
+![Cam lock drive frame](Images/cad.png)
+![Build](Images/build.jpg)
