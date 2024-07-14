@@ -13,8 +13,9 @@ Print according to official Voron [print settings](https://docs.vorondesign.com/
 * No extra hardware needed 
 
 ## Bom for zero panels
-* Tesa 4965 double sided tape
-* 1mm black foam tape
+* 2mm thick full height acrylic panels
+* 1mm adhesive foam tape
+* Tesa 4965 double sided adhesive tape
 
 ## Credit
 The [Voron team](https://github.com/VoronDesign/) for the original Voron V0 design
